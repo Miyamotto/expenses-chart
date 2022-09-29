@@ -250,7 +250,7 @@ main {
     height: 38rem;
   }
   .bodyPoint {
-    height: 31rem;
+    height: 28rem;
   }
   .hidden {
     padding: 2px;
@@ -346,8 +346,12 @@ main {
   }
   .title {
     font-size: 0.5rem;
+    padding-left: 0.8rem;
   }
   .attribution {
     padding: 1rem;
+  }
+  .total {
+    padding: 0.8rem;
   }
 }
