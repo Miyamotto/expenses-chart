@@ -248,6 +248,7 @@ main {
   .content {
     width: 20rem;
     height: 38rem;
+    margin-top: 1rem;
   }
   .bodyPoint {
     height: 28rem;
@@ -343,6 +344,7 @@ main {
   .content {
     width: 18rem;
     height: 38rem;
+    margin-top: 1rem;
   }
   .title {
     font-size: 0.5rem;
